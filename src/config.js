@@ -1,21 +1,25 @@
 module.exports = {
-  siteTitle: 'S.F. Holness | Senior Software Engineer',
+  siteTitle: 'Jesse Delorenzo | Senior Software Engineer',
   siteDescription: '',
   siteKeywords:
-    'Swainson, Swainson Finn Holness, Finn Holness, EatCrypto, software engineer, front-end engineer, web developer, javascript, solidity developer',
-  siteUrl: 'https://www.finnholness.me',
+    'Jesse, Jesse Delorenzo, Delorenzo, senior software engineer, software engineer, front-end engineer, web developer, javascript',
+  siteUrl: 'https://www.jessedelorenzo.me',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Swainson Finn Holness',
-  location: 'Park City, Utah',
-  email: 'finn.holness@gmail.com',
-  github: 'https://github.com/EatCrypto',
+  googleAnalyticsID: '',
+  googleVerification: '',
+  name: 'Jesse Delorenzo',
+  location: 'North Bergen, New Jersey',
+  email: 'delorenzojesse@gmail.com',
+  github: 'https://github.com/CodeNebulaX',
   twitterHandle: '',
   socialMedia: [
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/finn-holness',
+      url: 'https://www.linkedin.com/in/delorenzo-jesse',
+    },
+    {
+      name: 'GitHub',
+      url: 'https://github.com/CodeNebulaX',
     },
   ],
 

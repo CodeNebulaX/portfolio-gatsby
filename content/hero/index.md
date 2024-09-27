@@ -1,8 +1,8 @@
 ---
-title: 'Hey, my name is'
-name: 'Finn Holness'
-subtitle: "Have an idea? Let's gooooo!"
+title: 'Hello, I’m'
+name: 'Jesse Delorenzo'
+subtitle: "Have an idea? Let’s bring it to life."
 buttonText: 'Get In Touch'
 ---
 
-I'm a senior software engineer based in Park City, Utah and love to build software, improve processes, solve problems and challenges and learn new technologies. Proficient with JavaScript, TypeScript, React, Node, SQL, MongoDB, Docker.
+As a senior software engineer, I specialize in JavaScript, TypeScript, React, Node, and more. Whether it's creating innovative solutions or turning concepts into reality, I'm here to make it happen.

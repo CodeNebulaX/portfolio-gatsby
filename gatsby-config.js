@@ -16,13 +16,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Swainson Finn Holness',
-        short_name: 'Finn Holness',
+        name: 'Jesse Delorenzo',
+        short_name: 'Jesse Delorenzo',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
       },
     },
     `gatsby-plugin-offline`,
@@ -31,13 +30,6 @@ module.exports = {
       options: {
         name: 'content',
         path: `${__dirname}/content/`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/projects`,
-        name: `projects`,
       },
     },
     {

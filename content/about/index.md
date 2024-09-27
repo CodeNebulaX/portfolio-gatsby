@@ -1,14 +1,14 @@
 ---
 title: 'About Me'
 skills:
-  - JavaScript, TypeScript, C#, PHP, Python, Solidity
-  - React, Redux, Apollo GraphQL, Mobx, Angular, Vue
-  - Material UI, Antd Design
+  - JavaScript, TypeScript, PHP, Python
+  - React, Redux, Apollo GraphQL, Vue
+  - Material UI, Antd Design, Chakra UI
   - NodeJS, NestJS, ExpressJS, Jest, Mocha, Chai
-  - Firebase, Docker, AWS, Heroku, DevOps
-  - Hardhat, Truffle, Ganache
+  - AWS, GCP, Docker, Kubernetes
 ---
 
-Diligent software engineer with 8+ years experience in commercial application development. Passionate software engineering graduate with a hands-on, high energy approach, well-developed skills in Agile methodology, and an unapologetically user focused philosophy. Have developed several web apps, including a 4M+ MAU social networking platform.
+I’m not just a developer – I’m a problem solver.
+With nearly 9 years of experience, I transform complex challenges into elegant, user-centered solutions. My passion lies in driving projects from concept to execution, crafting seamless digital experiences that deliver tangible business results. Known for my agile approach, I thrive in collaborative environments and have a proven track record of enhancing performance, design, and scalability. My commitment extends beyond code—it's about building products that elevate user experiences and surpass stakeholder expectations.
 
-Here are some technologies I've been working with recently:
+Technologies I've recently worked with:

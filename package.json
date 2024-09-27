@@ -2,10 +2,10 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Swainson Finn Holness <finn.holness@gmail.com>",
+  "author": "Jesse Delorenzo <delorenzojesse@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tmpacifitech"
+    "url": "https://github.com/CodeNebulaX"
   },
   "keywords": [
     "gatsby"

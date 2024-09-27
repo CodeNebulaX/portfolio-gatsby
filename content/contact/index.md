@@ -1,7 +1,6 @@
 ---
-title: 'What you have in your mind?'
-buttonText: "Hey, let's talk."
+title: 'Got a project or just want to connect?'
+buttonText: "Hey, Let's Talk."
 ---
 
-I am always available for any kind of work whether it's a job offer or consulting.
-Bear in mind, my door is open. Drop me a line and give it a few hours to get back to you.
+I'm open to opportunities—whether it's a job offer, consulting work, or a collaboration. My door is always open. Drop me a message, and I'll get back to you within a few hours.

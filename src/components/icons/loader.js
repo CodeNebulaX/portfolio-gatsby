@@ -11,7 +11,7 @@ const IconLoader = () => (
         style={{
           fontSize: 50,
         }}>
-        F
+        J
       </text>
       <path
         stroke="currentColor"

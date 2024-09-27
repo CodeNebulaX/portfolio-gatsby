@@ -101,27 +101,27 @@ const About = ({ data }) => {
             <i className="devicon-typescript-plain colored"></i>
             <i className="devicon-react-original-wordmark colored"></i>
             <i className="devicon-vuejs-plain colored"></i>
-            <i className="devicon-angularjs-plain colored"></i>
             <i className="devicon-nodejs-plain-wordmark colored"></i>
-            <i className="devicon-express-original"></i>
+            <i className="devicon-express-original colored"></i>
             <i className="devicon-nestjs-plain colored"></i>
             <i className="devicon-php-plain colored"></i>
             <i className="devicon-python-plain colored"></i>
+            <i className="devicon-csharp-plain-wordmark colored"></i>
             <i className="devicon-bootstrap-plain-wordmark colored"></i>
-            <i className="devicon-d3js-plain colored"></i>
             <i className="devicon-css3-plain colored"></i>
-            <i className="devicon-csharp-plain colored"></i>
+            <i className="devicon-sass-original colored"></i>
             <i className="devicon-amazonwebservices-plain-wordmark colored"></i>
             <i className="devicon-babel-plain colored"></i>
             <i className="devicon-heroku-plain-wordmark colored"></i>
             <i className="devicon-git-plain-wordmark colored"></i>
             <i className="devicon-mongodb-plain-wordmark colored"></i>
             <i className="devicon-mysql-plain-wordmark"></i>
-            <i className="devicon-postgresql-plain-wordmark colored"></i>
-            <i className="devicon-sass-original colored"></i>
-            <i className="devicon-vscode-plain colored"></i>
+            <i className="devicon-postgresql-plain-wordmark colored"></i>           
             <i className="devicon-docker-plain-wordmark colored"></i>
-            <i className="devicon-solidity-plain colored"></i>
+            <i className="devicon-elasticsearch-plain-wordmark colored"></i>
+            <i className="devicon-kubernetes-plain colored"></i>
+            <i className="devicon-googlecloud-plain colored"></i>
+            <i className="devicon-graphql-plain colored"></i>
           </StyledSkills>
         }
       </StyledFlexContainer>
