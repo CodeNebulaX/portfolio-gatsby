@@ -2,7 +2,7 @@
 date: '2024-10'
 title: 'Senior Software Engineer'
 company: 'Connection'
-range: 'Sep 2022 - Oct 2024'
+range: 'Sep 2022 - Present'
 ---
 
 Transformed Legacy Marketplace to Modern React Application
