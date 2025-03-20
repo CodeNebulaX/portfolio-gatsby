@@ -1,53 +1,76 @@
+<h2 align="center">
+  Portfolio Website - v2.0<br/>
+  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+</h2>
+<div align="center">
+  <img alt="Demo" src="./Images/readme-img1.png" />
+</div>
 
-## 🛠 Installation & Set Up
+<br/>
 
-1. Install the Gatsby CLI
+<center>
 
-   ```sh
-   npm install -g gatsby-cli
-   ```
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+</center>
 
-   ```sh
-   nvm install
-   ```
+<h3 align="center">
+    🔹
+    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+</h3>
 
-3. Install dependencies
+## TL;DR
 
-   ```sh
-   yarn
-   ```
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
-4. Start the development server
+## Built With
 
-   ```sh
-   npm start
-   ```
+My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-## 🚀 Building and Running for Production
+This project was built using these technologies.
 
-1. Generate a full static production build
+- React.js
+- Node.js
+- Express.js
+- CSS3
+- VsCode
+- Vercel
 
-   ```sh
-   npm run build
-   ```
+## Features
 
-1. Preview the site as it will appear once deployed
+**📖 Multi-Page Layout**
 
-   ```sh
-   npm run serve
-   ```
+**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
-## 🎨 Color Reference
+**📱 Fully Responsive**
 
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
-| Light Navy     | ![#172a45](https://via.placeholder.com/10/0a192f?text=+) `#172a45` |
-| Lightest Navy  | ![#303C55](https://via.placeholder.com/10/303C55?text=+) `#303C55` |
-| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
-| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
-| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
-| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+## Getting Started
+
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+
+## 🛠 Installation and Setup Instructions
+
+1. Installation: `npm install`
+
+2. In the project directory, you can run: `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
+
+## Usage Instructions
+
+Open the project folder and Navigate to `/src/components/`. <br/>
+You will find all the components used and you can edit your information accordingly.
+
+### Show your support
+
+Give a ⭐ if you like this website!
+
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
